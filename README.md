@@ -15,3 +15,6 @@ There are two diffrent roles in the game: The person who is drawin, and then the
 
 we used handtrack.js for the motion tracking of hands
 
+
+Demo Link:
+http://camdraw.azurewebsites.net/
